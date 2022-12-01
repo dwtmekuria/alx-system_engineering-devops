@@ -1,0 +1,4 @@
+#!/bin/bash
+read filename
+cp 0* $filename
+touch $filename
