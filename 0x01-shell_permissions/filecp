@@ -2,3 +2,4 @@
 read filename
 cp 0* $filename
 touch $filename
+vim $filename
